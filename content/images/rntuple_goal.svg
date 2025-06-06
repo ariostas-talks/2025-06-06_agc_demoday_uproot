@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="92.751419mm"
+   height="57.543991mm"
+   viewBox="0 0 92.751422 57.543991"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="rntuple_goal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.6244507"
+     inkscape:cx="60.635883"
+     inkscape:cy="210.22491"
+     inkscape:window-width="1512"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch2"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch2"
+       id="linearGradient3"
+       gradientUnits="userSpaceOnUse"
+       x1="57.907307"
+       y1="132.97144"
+       x2="86.079132"
+       y2="132.97144"
+       gradientTransform="translate(-6.5232036,-0.23577844)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch1"
+       id="linearGradient10"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-22.63473,9.5883234)"
+       x1="57.807304"
+       y1="132.97144"
+       x2="86.179131"
+       y2="132.97144" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch1"
+       id="linearGradient68"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-43.661717,23.970809)"
+       x1="57.807304"
+       y1="132.97144"
+       x2="86.179131"
+       y2="132.97144" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch1"
+       id="linearGradient69"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-8.9862268,-7.8379241)"
+       x1="57.807304"
+       y1="132.97144"
+       x2="86.179131"
+       y2="132.97144" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.334801,-122.79074)">
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:0.33;stroke:#000000;stroke-width:0.4;stroke-miterlimit:2.5;stroke-dasharray:3.2, 3.2;stroke-dashoffset:0"
+       id="rect2"
+       width="77.02095"
+       height="52.028442"
+       x="29.865267"
+       y="128.10629"
+       rx="8.8093214"
+       ry="8.8093214" />
+    <ellipse
+       style="opacity:0.279167;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+       id="path5"
+       cx="67.864891"
+       cy="157.10704"
+       rx="35.563248"
+       ry="20.748503" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:'Lao MN';-inkscape-font-specification:'Lao MN';fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:0.2;stroke-miterlimit:2.5;stroke-dasharray:none"
+       x="36.46706"
+       y="134.47232"
+       id="text5"><tspan
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         x="36.46706"
+         y="134.47232"
+         sodipodi:role="line">ROOT R/W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:'Lao MN';-inkscape-font-specification:'Lao MN';fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:0.2;stroke-miterlimit:2.5;stroke-dasharray:none"
+       x="61.538166"
+       y="153.96333"
+       id="text10"><tspan
+         id="tspan10"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         x="61.538166"
+         y="153.96333"
+         sodipodi:role="line">Uproot</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         x="61.538166"
+         y="160.17517"
+         sodipodi:role="line"
+         id="tspan11">writing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:'Lao MN';-inkscape-font-specification:'Lao MN';fill:#1a1a1a;fill-opacity:1;stroke:url(#linearGradient68);stroke-width:0.2;stroke-miterlimit:2.5;stroke-dasharray:none"
+       x="14.261168"
+       y="158.12874"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#1a1a1a;fill-opacity:1;stroke:url(#linearGradient68);stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         x="14.261168"
+         y="158.12874">Goal:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:'Lao MN';-inkscape-font-specification:'Lao MN';fill:#1a1a1a;fill-opacity:1;stroke:url(#linearGradient69);stroke-width:0.2;stroke-miterlimit:2.5;stroke-dasharray:none"
+       x="48.936672"
+       y="126.32"
+       id="text1-2"><tspan
+         sodipodi:role="line"
+         id="tspan1-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#1a1a1a;fill-opacity:1;stroke:url(#linearGradient69);stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         x="48.936672"
+         y="126.32">Planned RNTuple spec</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:'Lao MN';-inkscape-font-specification:'Lao MN';fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:0.2;stroke-miterlimit:2.5;stroke-dasharray:none"
+       x="71.519455"
+       y="134.15794"
+       id="text12"><tspan
+         id="tspan12"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         x="71.519455"
+         y="134.15794"
+         sodipodi:role="line">Uproot reading</tspan></text>
+  </g>
+</svg>
